@@ -2,6 +2,6 @@ Main ChatGPT link: [https://chatgpt.com/share/68dff541-3fac-800c-8394-326fcf611a
 
 E-mail template canvas: [https://chatgpt.com/canvas/shared/68dff523da4c8191b7c41f82cd437a60](https://chatgpt.com/share/68dff541-3fac-800c-8394-326fcf611a5c)
 
-Author's note (the human): I have mixed emotions now as this was pretty nifty. I do understand the code and it is SO MUCH SIMPLER TO generate based off of instructions to the representation of the system, ChatGPT.
+Author's note (the human): I have mixed emotions now as this is pretty nifty. I do understand the code and it is SO MUCH SIMPLER TO generate based off of instructions to the representation of the system, ChatGPT.
 
 I sat here and pondered for a moment and thought, you know, at least I made the main layout image. It is really something to behold - to watch this machine generate this with minimal interaction. It is amazing to me.
